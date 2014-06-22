@@ -9,6 +9,7 @@ There was a day when I was searching for some files inside a directory which had
 Below there is a powershell script that does exactly that listing directory content and creating a html file to let you see and (in some cases) easily open files.
 
 Each file is displayed as a tile like this one:
+
 ![file icon](https://raw.githubusercontent.com/mnmnc/img/master/file.jpg)
 
 
