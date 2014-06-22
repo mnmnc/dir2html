@@ -21,3 +21,24 @@ On each tile there is
 The web page generated will look like this:
 
 ![directory as html document](https://raw.githubusercontent.com/mnmnc/img/master/smallkafel.jpg)
+
+For now you can open specific files directly from generated html page:
+* txt, 
+* cpp, 
+* c, 
+* hpp, 
+* h, 
+* gif, 
+* tiff, 
+* jpg, 
+* jpeg, 
+* png, 
+* bmp, 
+* pdf, 
+* html, 
+* htm 
+
+
+File size is displayed in either Bytes, KiloBytes or MegaBytes – if the size is bigger than 1024 Bytes it will be shown in KiloBytes.
+
+Feel free to modify the script to add your coloring preference just by creating or altering a CSS style. If you come up with something cool - let me know.
